@@ -1,4 +1,4 @@
-# Scotium Talent Hunt with Machine Learning
+# Scotium Talent Hunt
 
 ---
 
@@ -146,7 +146,7 @@ The best parameters for the Random Forest model are:
 
 1) Fork it (https://github.com/nedimcanulusoy/Scotium-Talent-Hunt-with-ML.git)
 2) Create your feature branch (git checkout -b feature/your-feature)
-3) Commit your changes (git commit -am 'Add some feature')
+3) Commit your changes (git commit -am 'ADD some feature')
 4) Push to the branch (git push origin feature/your-feature)
 5) Create a new Pull Request
 
