@@ -1,0 +1,38 @@
+BEFORE HYPERPARAMETER TUNING
+--------------------------------------------------
+Accuracy: 0.9117647058823529
+F1 Score: 0.4
+Precision: 1.0
+Recall: 0.25
+ROC AUC Score: 0.625
+Confusion Matrix: [[60  0]
+ [ 6  2]]
+Classification Report:               precision    recall  f1-score   support
+
+           0       0.91      1.00      0.95        60
+           1       1.00      0.25      0.40         8
+
+    accuracy                           0.91        68
+   macro avg       0.95      0.62      0.68        68
+weighted avg       0.92      0.91      0.89        68
+
+###########################################################################
+
+AFTER HYPERPARAMETER TUNING
+--------------------------------------------------
+Accuracy: 0.9264705882352942
+F1 Score: 0.6153846153846154
+Precision: 0.8
+Recall: 0.5
+ROC AUC Score: 0.7416666666666666
+Confusion Matrix: [[59  1]
+ [ 4  4]]
+Classification Report:               precision    recall  f1-score   support
+
+           0       0.94      0.98      0.96        60
+           1       0.80      0.50      0.62         8
+
+    accuracy                           0.93        68
+   macro avg       0.87      0.74      0.79        68
+weighted avg       0.92      0.93      0.92        68
+
